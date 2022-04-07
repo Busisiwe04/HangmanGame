@@ -1,6 +1,8 @@
 # HangmanGame
 
 The hangman game is about guessing a random word by guessing letters one by one. If the player runs out of guesses, the game is over. 
+
+
 Set a maximum limit for guesses to 10. 
 Set the correct answer to: ‘GirlCode’ 
 For each correct alphabet the user guesses, display the letter in the correct placeholder and disable the selected alphabet. 

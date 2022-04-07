@@ -1,6 +1,7 @@
 # HangmanGame
 
 The hangman game is about guessing a random word by guessing letters one by one. If the player runs out of guesses, the game is over. 
+![image](https://user-images.githubusercontent.com/82003973/162210185-bd219f88-70c6-47c6-8f30-d9a631fc1836.png)
 
 
 Set a maximum limit for guesses to 10. 
